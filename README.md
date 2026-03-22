@@ -1,16 +1,46 @@
-## Hi there 👋
+Technologist | About Me
 
-<!--
-**dwivedyarvind67/dwivedyarvind67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Coding
 
-Here are some ideas to get you started:
+name: Arvind Dwivedi
+located_in: India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+education:
+
+* B.Tech (Electronis & Communication )
+
+currently:
+
+* Building AI SaaS products
+* Working on AI Trading Dashboard
+* Creating real-world startup projects
+
+fields_of_interest:
+
+* Full Stack Development
+* AI & Automation
+* SaaS Development
+* System Design
+
+technical_background:
+
+* "Languages: JavaScript, TypeScript, Python"
+* "Frontend: React, Next.js, Tailwind CSS"
+* "Backend: Node.js, FastAPI"
+* "Database: MongoDB, PostgreSQL"
+* "Tools: Git, Docker"
+* "AI: OpenAI APIs, AI Agents"
+
+currently_learning:
+
+* System Design
+* Advanced Backend Architecture
+* AI Agents & Automation
+
+2026_goals:
+
+* Build profitable SaaS product 💸
+* Launch 2+ real-world projects
+* Get strong in system design
+
+
