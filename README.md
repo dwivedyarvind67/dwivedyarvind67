@@ -101,7 +101,6 @@ technical_background:
 <div align="center">
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwivedyarvind67&layout=compact&theme=radical&hide_border=true" alt="top langs" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dwivedyarvind67&theme=radical&hide_border=true" alt="streak"/>
 
