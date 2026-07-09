@@ -45,11 +45,6 @@ technical_background:
 
 ```
 
----
-
-## 🌐 3D Contribution Calendar
-
-<img src="https://raw.githubusercontent.com/dwivedyarvind67/dwivedyarvind67/output/github-contribution-grid-3d.svg" alt="3D contribution calendar"/>
 
 ---
 
