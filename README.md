@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/29849700/README.md)
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=ARVIND+DWIVEDI;Full+Stack+%7C+AI+%2F+ML+%7C+Embedded+Systems;Building+at+the+edge+of+hardware+%26+software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=ARVIND+DWIVEDI;Full+Stack+%7C+AI+%2F+ML+%7C+Embedded+Systems;Hardware+Meets+Software" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=dwivedyarvind67&label=VISITORS&color=8b5cf6&style=for-the-badge" alt="visitors"/>
