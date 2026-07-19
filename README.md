@@ -6,7 +6,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=dwivedyarvind67&label=VISITORS&color=8b5cf6&style=for-the-badge" alt="visitors"/>
   <img src="https://img.shields.io/github/followers/dwivedyarvind67?label=FOLLOWERS&style=for-the-badge&color=8b5cf6" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/dwivedyarvind67?label=STARS&style=for-the-badge&color=8b5cf6" alt="stars"/>
+  <img src="https://img.shields.io/github/stars/dwivedyarvind67/AVA-LABS?label=STARS&style=for-the-badge&color=8b5cf6" alt="stars"/>
 </p>
 
 </div>
