@@ -4,9 +4,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=ARVIND+DWIVEDI;Full+Stack+%7C+AI+%2F+ML+%7C+Embedded+Systems;Hardware+Meets+Software" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dwivedyarvind67&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=dwivedyarvind67&label=VISITORS&style=for-the-badge&color=8b5cf6"/>
 
+  <img src="https://img.shields.io/github/followers/dwivedyarvind67?style=for-the-badge&logo=github&logoColor=white&color=8b5cf6"/>
+
+  <img src="https://img.shields.io/github/repos/dwivedyarvind67?style=for-the-badge&logo=github&logoColor=white&label=REPOSITORIES&color=8b5cf6"/>
+</p>
 </div>
 
 ---
