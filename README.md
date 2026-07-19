@@ -6,9 +6,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dwivedyarvind67&label=VISITORS&style=for-the-badge&color=8b5cf6"/>
 
-  <img src="https://img.shields.io/github/followers/dwivedyarvind67?style=for-the-badge&logo=github&logoColor=white&color=8b5cf6"/>
-
-  <img src="https://img.shields.io/github/repos/dwivedyarvind67?style=for-the-badge&logo=github&logoColor=white&label=REPOSITORIES&color=8b5cf6"/>
 </p>
 </div>
 
