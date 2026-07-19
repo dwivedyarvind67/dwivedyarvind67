@@ -3,10 +3,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=ARVIND+DWIVEDI;Full+Stack+%7C+AI+%2F+ML+%7C+Embedded+Systems;Hardware+Meets+Software" alt="Typing SVG" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=dwivedyarvind67&label=VISITORS&color=8b5cf6&style=for-the-badge" alt="visitors"/>
-  <img src="https://img.shields.io/github/followers/dwivedyarvind67?label=FOLLOWERS&style=for-the-badge&color=8b5cf6" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/dwivedyarvind67/AVA-LABS?label=STARS&style=for-the-badge&color=8b5cf6" alt="stars"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dwivedyarvind67&label=VISITORS&style=for-the-badge&color=8b5cf6"/>
+
+  <img src="https://img.shields.io/github/followers/dwivedyarvind67?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=8b5cf6"/>
+
+  <img src="https://img.shields.io/github/stars/dwivedyarvind67/AVA-LABS?style=for-the-badge&logo=github&logoColor=white&label=REPO%20STARS&color=8b5cf6"/>
 </p>
 
 </div>
